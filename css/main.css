@@ -114,3 +114,6 @@ ul>li{
 .btn:hover{
 	background: #e44d26;
 }
+.products__disc .btn__action{
+	background: #e44d26;
+}
